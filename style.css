@@ -1,0 +1,19 @@
+* {
+  background-color: rgba(175, 191, 206, 0.952);
+  text-decoration: none;
+}
+a {
+  color: black;
+}
+h1 {
+  font-family: sans-serif;
+  text-shadow: 1px 1px 1px #3b36369d;
+}
+.text {
+  width: 60%;
+  margin: 30px;
+  text-align: justify;
+}
+.ulli {
+  padding-left: 90px;
+}
